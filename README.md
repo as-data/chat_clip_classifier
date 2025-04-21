@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐱 Chat Clip Classifier
 
 Ce projet utilise l'IA pour analyser automatiquement des vidéos de chat et extraire les moments clés (jeu, sommeil, repas, miaulement, interaction avec un humain…) sous forme de clips classés.
